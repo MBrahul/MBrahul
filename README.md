@@ -7,13 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbrahul&label=Profile%20views&color=0e75b6&style=flat" alt="mbrahul" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://vishvjeet.netlify.app](https://vishvjeet.netlify.app)
-
 - 💬 Ask me about **CP , MERN**
 
 - 📫 How to reach me **vishvjeetprajapati138@gmail.com**
 
-- 📄 Know about my experiences [https://vishvjeet.netlify.app/CV.pdf](https://vishvjeet.netlify.app/CV.pdf)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1rsB7HWbTU1GtgeKWJ1soOHPA1hWLgRhk/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
